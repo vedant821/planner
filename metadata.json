@@ -1,0 +1,8 @@
+{
+  "name": "StudyMate AI",
+  "description": "Personal Study Planner & AI Study Assistant with intelligent scheduling, conversational tutoring, exam countdown prep, spaced repetition flashcards, quizzes, and Pomodoro focus tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
